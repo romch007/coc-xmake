@@ -1,8 +1,6 @@
 import { commands, CompleteResult, ExtensionContext, listManager, sources, window, workspace } from 'coc.nvim';
 
 export async function activate(context: ExtensionContext): Promise<void> {
-  window.showMessage(`coc-xmake works!`);
-
   context.subscriptions.push(
     sources.createSource({
       name: 'coc-xmake completion source', // unique id
