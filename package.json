@@ -1,6 +1,6 @@
 {
   "name": "coc-xmake",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "XMake extension for coc.nvim",
   "author": "Romain Chardiny <romain.chardiny@gmail.com>",
   "license": "MIT",
