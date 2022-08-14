@@ -5,6 +5,11 @@
   "author": "Romain Chardiny <romain.chardiny@gmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
+  "homepage": "https://github.com/romch007/coc-xmake",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romch007/coc-xmake.git"
+  },
   "keywords": [
     "coc.nvim"
   ],
