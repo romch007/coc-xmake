@@ -14,6 +14,10 @@ XMake extension for coc.nvim
 
 `:CocList demo_list`
 
+## Use autocmd to enable coc-xmake
+
+Use `autocmd BufRead xmake.lua set filetype=xmake` to enable coc-xmake only when you open the xmake.lua
+
 ## License
 
 MIT
